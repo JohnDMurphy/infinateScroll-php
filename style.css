@@ -1,0 +1,9 @@
+.box {
+  border: black solid 1px;
+  padding: 12px;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+}
